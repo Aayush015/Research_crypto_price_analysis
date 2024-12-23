@@ -1,5 +1,7 @@
 # **Cryptocurrency Price Prediction Using Media Sentiment Analysis**
 
+![Gpt Integration](Images/gpt_integration.png)
+
 ## **Project Overview**
 
 This project aims to predict cryptocurrency prices for the end of 2023 based on sentiment analysis of media coverage from 2021 to 2023. By leveraging machine learning models and utilizing historical price data alongside hourly news sentiment for major cryptocurrencies and related blockchain technologies, the project endeavors to understand the intricate relationship between news sentiment and cryptocurrency market trends.
